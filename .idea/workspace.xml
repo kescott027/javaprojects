@@ -387,8 +387,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
-    <option name="y" value="60" />
+    <option name="x" value="18" />
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="946" />
   </component>
@@ -408,40 +408,23 @@
           <expand>
             <path>
               <item name="javaprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaprojects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="javaprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java21days" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -601,15 +584,15 @@
       <option name="presentableId" value="Default" />
       <updated>1545324495119</updated>
       <workItem from="1545324496692" duration="12050000" />
-      <workItem from="1546442391420" duration="744000" />
+      <workItem from="1546442391420" duration="763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12794000" />
+    <option name="totallyTimeSpent" value="12813000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="60" width="1680" height="946" extended-state="0" />
+    <frame x="18" y="23" width="1680" height="946" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
