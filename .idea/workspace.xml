@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8a8749a-82cd-41e5-9204-29fcdcc69475" name="Default" comment="Updated README.MD with current projects">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e8a8749a-82cd-41e5-9204-29fcdcc69475" name="Default" comment="Updated README.MD with current projects" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/.gradle/" />
     <ignored path="$PROJECT_DIR$/src/build/" />
@@ -389,8 +387,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1840" />
-    <option name="y" value="-355" />
+    <option name="x" value="60" />
+    <option name="y" value="60" />
     <option name="width" value="1680" />
     <option name="height" value="946" />
   </component>
@@ -603,15 +601,15 @@
       <option name="presentableId" value="Default" />
       <updated>1545324495119</updated>
       <workItem from="1545324496692" duration="12050000" />
-      <workItem from="1546442391420" duration="351000" />
+      <workItem from="1546442391420" duration="744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12401000" />
+    <option name="totallyTimeSpent" value="12794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1840" y="-355" width="1680" height="946" extended-state="0" />
+    <frame x="60" y="60" width="1680" height="946" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
